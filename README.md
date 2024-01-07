@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/dexterous97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dexterous97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-hasan-bhuiyan-54b849192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-hasan-bhuiyan-54b849192/" height="30" width="40" /></a>
-<a href="https://fb.com/mehedi hasan bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi hasan bhuiyan" height="30" width="40" /></a>
-<a href="https://instagram.com/meh_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meh_adi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mehedibhuiyan.durjoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi hasan bhuiyan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/meh_adi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meh_adi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dream sequence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dream sequence" height="30" width="40" /></a>
 </p>
 
