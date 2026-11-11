@@ -2,78 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD HASAN BHUIYAN</h1> <h3 align="center">A passionate  Cyber Security Specialist and Test Engineer from Bangladesh</h3> <img align="right" alt="coding" width="400" padding-bottom="10" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a
 
-pasted
 
-give me correction"  to organize and llok so great and attractive for my github profile ac
-
-12:24 PM
-
-Reading frontend design skill
-Reading frontend design skill
-Now I'll create a beautifully redesigned GitHub profile README for you.
-
-
-Created a file, read a file
-Created a file, read a file
-Here's your completely revamped GitHub profile README! 🚀 Here's what was improved:
-
-Visual Upgrades:
-
-🌊 Animated wave header using capsule-render with a sleek dark blue/cyan gradient
-⌨️ Typing animation cycling through your roles dynamically
-🎨 Tokyo Night dark theme across all stats cards for a cohesive hacker aesthetic
-Structure Improvements:
-
-📋 YAML-style "About Me" block — clean, developer-centric, memorable
-🏷️ Organized badge sections — Security/Testing, Languages, Frontend/Tools all grouped logically
-✅ Fixed your LinkedIn URL (it had a duplicate https:// in the original)
-✅ Fixed YouTube channel link (removed space in dream sequence)
-Content Additions:
-
-🏆 Trophies displayed in a full 7-column row
-📊 Stats cards side-by-side with dark matching backgrounds
-🔥 Streak stats with accent colors matching the theme
-📝 Medium blog placeholder section
-🤝 All social links as polished badge buttons including Gmail
-To use it: Copy the content of this README.md file directly into your GitHub profile repository (the special repo named mehedi-cryptic/mehedi-cryptic).
-
-
-Readme
-Document · MD 
-didnt like it give me proper design with real images and outlook in code
-
-12:27 PM
-
-
-Here's a live preview of exactly how your GitHub profile will look! Now here's the actual README code to copy into your GitHub:
-
-
-Created 2 files, ran a command, read a file
-Created 2 files, ran a command, read a file
-The preview above shows exactly what your profile will look like — dark hacker aesthetic with your real stats, streak, and language cards all rendering live from GitHub's APIs.
-
-How to set it up on GitHub:
-
-Go to github.com → create a new repository named exactly mehedi-cryptic (same as your username)
-Make it Public and check "Add a README file"
-Open the README, click the pencil ✏️ edit icon, delete everything, and paste the contents of the downloaded file
-Click Commit changes
-Your profile will instantly show the animated header, typing effect, live stats cards, streak tracker, trophies, and all social buttons — all pulling real data from your GitHub account. 🚀
-
-
-Readme
-Document · MD 
-
-
-You are out of free messages until 5:00 PM
-Upgrade
-update streak stats github stats top languages image section
-
-Claude is AI and can make mistakes. Please double-check responses.
-Pasted content
-6.71 KB •39 lines
-•
-Formatting may be inconsistent from source
 <h1 align="center">Hi 👋, I'm MD HASAN BHUIYAN</h1>
 <h3 align="center">A passionate Software Test Engineer and Cyber Security Enthusiast from Bangladesh</h3>
 <img align="right" alt="coding" width="400"  padding-bottom="10" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
